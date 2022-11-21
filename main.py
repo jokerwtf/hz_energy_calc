@@ -2,11 +2,8 @@ from time import sleep
 
 print("Loading")
 sleep(0.3)
-print('Coded')
-sleep(0.3)
-print('by')
-sleep(0.3)
-print('Jok3r - jokerwtf#1337')
+print('Coded by Jok3r - jokerwtf#1337')
+
 sleep(1)
 while True:
     missionOne_xp = int(input("Enter mission one XP: "))
