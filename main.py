@@ -6,6 +6,8 @@ print('Coded by Jok3r - jokerwtf#1337')
 
 sleep(1)
 while True:
+    print("Only enter integer numbers!")
+    sleep(0.5)
     missionOne_xp = int(input("Enter mission one XP: "))
     missionOne_ene = int(input("Enter mission one Cost: "))
     missionOne = missionOne_xp / missionOne_ene
