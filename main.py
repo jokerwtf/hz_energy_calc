@@ -1,7 +1,7 @@
 from time import sleep
 
 print("Loading")
-sleep(0.3)
+sleep(0.6)
 print('Coded by Jok3r - jokerwtf#1337')
 
 sleep(1)
