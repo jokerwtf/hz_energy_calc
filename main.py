@@ -2,7 +2,7 @@ from time import sleep
 
 print("Loading")
 sleep(0.6)
-print('Coded by Jok3r - jokerwtf#1337')
+print('Coded by Jok3r')
 
 sleep(1)
 while True:
